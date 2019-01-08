@@ -22,6 +22,10 @@
           <option name="url" value="http://220.76.251.172:10080/Cross/CrossManager.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://220.76.251.172:10080/spc-cms/spc-hs-manager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\jspark\IdeaProjects" />
