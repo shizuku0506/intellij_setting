@@ -62,4 +62,7 @@
     </option>
     <option name="cloneParentDir" value="C:\Users\jspark\IdeaProjects\dev_server" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
+  </component>
 </application>
