@@ -1,9 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="isContrastMode" value="true" />
-    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="rightTreeIndent" value="6" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="61197fbc:167ed518ff1:-8000" />
     <option name="version" value="3.0.0-rc4" />
   </component>
