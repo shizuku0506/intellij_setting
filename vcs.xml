@@ -60,7 +60,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\jspark\IdeaProjects\dev_server" />
+    <option name="cloneParentDir" value="C:\Users\jspark\IdeaProjects" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
