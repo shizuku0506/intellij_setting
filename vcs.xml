@@ -82,6 +82,10 @@
           <option name="url" value="https://github.com/apache/tomcat.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://220.76.251.172:10080/eok/sqi-eok-launcher.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\jspark\IdeaProjects" />
