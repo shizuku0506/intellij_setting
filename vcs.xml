@@ -102,6 +102,10 @@
           <option name="url" value="https://github.com/SQIMedia1/spc-eok-br-player.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/SQIMedia1/spc-v1-dd-player.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\jspark\IdeaProjects" />
