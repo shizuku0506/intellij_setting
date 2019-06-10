@@ -3,9 +3,7 @@
     <extensionMap>
       <mapping pattern="casApiService" type="JavaScript" />
       <mapping ext="info" type="PLAIN_TEXT" />
-      <mapping ext="lib" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
-      <removed_mapping ext="lib" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
