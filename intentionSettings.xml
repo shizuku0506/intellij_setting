@@ -3,5 +3,6 @@
     <ignoreAction name="XML/Split current tag" />
     <ignoreAction name="Language Injection/Inject language or reference" />
     <ignoreAction name="JavaScript/Replace with indexer access" />
+    <ignoreAction name="JavaScript/Introduce local variable" />
   </component>
 </application>
