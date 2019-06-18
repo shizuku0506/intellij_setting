@@ -3,7 +3,7 @@
     <property name="created">2018-12-27T10:40:04</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2019-06-17T11:15:19</property>
+    <property name="modified">2019-06-18T12:21:27</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -25,26 +25,14 @@
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
   </colors>
   <attributes>
-    <option name="HTML_CODE">
-      <value />
-    </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="2de91d" />
       </value>
     </option>
-    <option name="JS.KEYWORD">
+    <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="cc812b" />
-      </value>
-    </option>
-    <option name="KOTLIN_LABEL">
-      <value />
-    </option>
-    <option name="MATCHED_BRACE_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="3b514d" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="2de91d" />
       </value>
     </option>
   </attributes>
