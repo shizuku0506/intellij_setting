@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="JavaScript">
+        <added pattern="Promise.finally(onfinally)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
