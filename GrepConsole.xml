@@ -1,12 +1,5 @@
 <application>
   <component name="GrepConsole">
-    <option name="donationNagger">
-      <DonationNagger>
-        <option name="actionsExecuted" value="2" />
-        <option name="firstUsage" value="0" />
-        <option name="firstUsedVersion" value="9.0.162.000.2" />
-      </DonationNagger>
-    </option>
     <option name="profiles">
       <list>
         <Profile>
@@ -23,10 +16,15 @@
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="color" value="-65536" />
-                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="bold" value="true" />
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-65536" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
@@ -35,6 +33,11 @@
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-14336" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
                             <GrepColor>
                               <option name="color" value="-14336" />
                               <option name="enabled" value="true" />
@@ -48,6 +51,11 @@
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-256" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
                             <GrepColor>
                               <option name="color" value="-256" />
                               <option name="enabled" value="true" />
