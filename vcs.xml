@@ -190,6 +190,10 @@
           <option name="url" value="https://github.com/SQIMedia1/tbm-manager.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/SQIMedia1/eliga-v10-manager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\jspark\IdeaProjects" />
